@@ -1,0 +1,41 @@
+# Local environments and build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+output/
+build/
+dist/
+
+# Application packages and downloaded dependencies
+*.apk
+*.xapk
+*.apks
+*.apkm
+*.aab
+*.dex
+*.class
+*.so
+*.aar
+*.jar
+*.zip
+*.tar.gz
+
+# Private signing material
+keys/
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+.env
+.env.*
+
+# Temporary and editor files
+*.log
+*.tmp
+*.bak
+*~
+.idea/
+.vscode/
+.DS_Store

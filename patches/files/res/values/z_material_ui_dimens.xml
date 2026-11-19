@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Design tokens from ApkToolbox reference (read-only). -->
+    <dimen name="material_ui_action_button_height">56dp</dimen>
+    <dimen name="material_ui_action_button_icon_padding">12dp</dimen>
+    <dimen name="material_ui_screen_margin">24dp</dimen>
+    <dimen name="material_ui_icon_button_margin">12dp</dimen>
+    <dimen name="material_ui_corner_large">28dp</dimen>
+    <dimen name="material_ui_corner_medium">16dp</dimen>
+    <dimen name="material_ui_corner_small">12dp</dimen>
+</resources>

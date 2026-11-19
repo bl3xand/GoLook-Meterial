@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_clip_title">Trim video</string>
+  <string name="material_ui_clip_selection">Selected segment</string>
+  <string name="material_ui_clip_drag_hint">Drag the edges to trim, or the selection to move it.</string>
+  <string name="material_ui_clip_start">Start</string>
+  <string name="material_ui_clip_end">End</string>
+  <string name="material_ui_clip_duration">Duration</string>
+  <string name="material_ui_clip_zero">00:00.0</string>
+  <string name="material_ui_clip_zero_position">00:00.0 / 00:00.0</string>
+  <string name="material_ui_clip_play">Play preview</string>
+  <string name="material_ui_clip_pause">Pause preview</string>
+  <string name="material_ui_clip_save">Save segment</string>
+</resources>

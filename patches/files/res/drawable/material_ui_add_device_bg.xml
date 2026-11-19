@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Big install-style add-device button: rounded primary pill with ripple. -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/material_ui_primary_container">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/material_ui_primary" />
+            <corners android:radius="32.0dip" />
+        </shape>
+    </item>
+</ripple>

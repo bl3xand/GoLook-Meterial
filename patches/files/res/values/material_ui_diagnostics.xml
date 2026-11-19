@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_socket_title">Connection diagnostics</string>
+  <string name="material_ui_socket_ip">IP address</string>
+  <string name="material_ui_socket_port">Port</string>
+  <string name="material_ui_socket_connect">Connect</string>
+  <string name="material_ui_socket_data">Message</string>
+  <string name="material_ui_socket_send">Send</string>
+  <string name="material_ui_socket_received">Received data · tap to clear</string>
+  <string name="material_ui_device_identifier">Device identifier</string>
+  <string name="material_ui_activation_help">Connect the recorder before activating voice control.</string>
+<string name="material_ui_live_title">Live view</string><string name="material_ui_video_title">Video</string><string name="material_ui_fusion_progress">Preparing video… Keep this screen open until saving finishes.</string></resources>

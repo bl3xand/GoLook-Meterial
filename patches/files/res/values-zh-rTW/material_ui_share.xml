@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="material_ui_preparing_mp4">正在準備 MP4…</string>
+    <string name="material_ui_mp4_failed">無法準備 MP4。您可以儲存原始檔案。</string>
+</resources>

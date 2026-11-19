@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><style name="Theme.MaterialUi" parent="@style/Theme.Material3Expressive.DynamicColors.DayNight.NoActionBar">
+
+        <item name="linearProgressIndicatorStyle">@style/Widget.Material3Expressive.LinearProgressIndicator.Wavy</item>
+        <item name="circularProgressIndicatorStyle">@style/Widget.MaterialUi.Progress.Circular</item>
+        <!-- material 1.14 dex supplies the widget classes; keep default button
+             styles explicit so plain <Button> inherits the same shape. -->
+        <item name="materialButtonStyle">@style/Widget.MaterialUi.Button</item>
+        <item name="materialButtonTonalStyle">@style/Widget.Material3.Button.TonalButton</item>
+        <!-- Material 3 dialogs everywhere: 28dp corners, tonal buttons -->
+        <item name="android:dialogTheme">@style/ThemeOverlay.MaterialUi.Dialog</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.MaterialUi.Dialog.Alert</item>
+        <item name="dialogTheme">@style/ThemeOverlay.MaterialUi.Dialog</item>
+        <item name="alertDialogTheme">@style/ThemeOverlay.MaterialUi.Dialog.Alert</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:statusBarColor">@color/material_ui_surface</item>
+        <item name="android:navigationBarColor">@color/material_ui_surface</item>
+        <item name="android:windowBackground">@color/material_ui_surface</item>
+        <item name="android:textColorHint">@color/material_ui_on_surface_variant</item>
+        <item name="android:editTextColor">@color/material_ui_on_surface</item>
+        <item name="selectableItemBackground">@drawable/material_ui_settings_row_bg</item>
+        <item name="android:selectableItemBackground">@drawable/material_ui_settings_row_bg</item>
+        <item name="android:listViewStyle">@style/Widget.MaterialUi.ListView</item>
+    </style></resources>

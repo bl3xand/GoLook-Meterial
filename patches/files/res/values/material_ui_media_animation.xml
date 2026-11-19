@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Animation.MaterialUi.MediaChrome" parent="">
+        <item name="android:windowEnterAnimation">@anim/material_ui_media_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/material_ui_media_fade_out</item>
+    </style>
+</resources>

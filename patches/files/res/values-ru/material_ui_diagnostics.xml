@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_socket_title">Диагностика соединения</string>
+  <string name="material_ui_socket_ip">IP-адрес</string>
+  <string name="material_ui_socket_port">Порт</string>
+  <string name="material_ui_socket_connect">Подключиться</string>
+  <string name="material_ui_socket_data">Сообщение</string>
+  <string name="material_ui_socket_send">Отправить</string>
+  <string name="material_ui_socket_received">Полученные данные · нажмите, чтобы очистить</string>
+  <string name="material_ui_device_identifier">Идентификатор устройства</string>
+  <string name="material_ui_activation_help">Подключите регистратор перед активацией голосового управления.</string>
+  <string name="material_ui_live_title">Просмотр камеры</string>
+  <string name="material_ui_video_title">Видео</string>
+  <string name="material_ui_fusion_progress">Подготовка видео… Дождитесь завершения сохранения.</string>
+</resources>

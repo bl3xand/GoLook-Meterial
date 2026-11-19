@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_clip_title">Обрезка видео</string>
+  <string name="material_ui_clip_selection">Выбранный фрагмент</string>
+  <string name="material_ui_clip_drag_hint">Тяните края для обрезки, середину — для перемещения.</string>
+  <string name="material_ui_clip_start">Начало</string>
+  <string name="material_ui_clip_end">Конец</string>
+  <string name="material_ui_clip_duration">Длительность</string>
+  <string name="material_ui_clip_zero">00:00.0</string>
+  <string name="material_ui_clip_zero_position">00:00.0 / 00:00.0</string>
+  <string name="material_ui_clip_play">Воспроизвести фрагмент</string>
+  <string name="material_ui_clip_pause">Приостановить</string>
+  <string name="material_ui_clip_save">Сохранить фрагмент</string>
+</resources>

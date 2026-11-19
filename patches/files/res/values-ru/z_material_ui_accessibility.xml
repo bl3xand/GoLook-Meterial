@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_previous">Предыдущее видео</string>
+  <string name="material_ui_next">Следующее видео</string>
+  <string name="material_ui_play_pause">Воспроизвести или приостановить</string>
+  <string name="material_ui_fullscreen">Полноэкранный режим</string>
+  <string name="material_ui_back">Назад</string>
+  <string name="material_ui_more">Другие действия</string>
+  <string name="material_ui_frame_preview">Просмотр кадров</string>
+  <string name="material_ui_fast">Быстро</string>
+  <string name="material_ui_slow">Медленно</string>
+  <string name="material_ui_capture">Снять кадр</string>
+</resources>

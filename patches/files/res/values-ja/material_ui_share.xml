@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="material_ui_preparing_mp4">MP4を準備中…</string>
+    <string name="material_ui_mp4_failed">MP4を準備できませんでした。元のファイルは保存できます。</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="material_ui_previous">Previous video</string>
+  <string name="material_ui_next">Next video</string>
+  <string name="material_ui_play_pause">Play or pause</string>
+  <string name="material_ui_fullscreen">Toggle fullscreen</string>
+  <string name="material_ui_back">Back</string>
+  <string name="material_ui_more">More options</string>
+  <string name="material_ui_frame_preview">Frame preview</string>
+  <string name="material_ui_fast">Fast</string>
+  <string name="material_ui_slow">Slow</string>
+  <string name="material_ui_capture">Capture</string>
+</resources>
