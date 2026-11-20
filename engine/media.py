@@ -33,6 +33,12 @@ def refine(source, package):
             root.set(A + 'background', '@drawable/material_ui_media_scrim_top')
             changed = True
         for node in root.iter():
+            if node.tag == 'SeekBar' and node.get(A + 'id') == '@id/mediacontroller_progress':
+                # Buffering must not leave a separate gray tail on the playback track.
+                # Keep the native buffer value while using one continuous inactive color.
+                node.set(A + 'progressBackgroundTint', '@color/material_ui_primary_container')
+                node.set(A + 'secondaryProgressTint', '@color/material_ui_primary_container')
+                changed = True
             if path.name in {'rxffmpeg_player_controller.xml', 'activity_vod.xml'} and node.get(A + 'id') in {'@id/bottomPanel', '@id/media_controller'}:
                 node.set(A + 'background', '@drawable/material_ui_media_scrim_bottom')
                 changed = True
